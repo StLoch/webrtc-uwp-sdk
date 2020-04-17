@@ -108,7 +108,7 @@ url=https://github.com/webrtc-uwp/googlemock.git
 	url = https://github.com/webrtc-uwp/templates.git
 [submodule "webrtc/xplatform/webrtc-apis"]
 	path = webrtc/xplatform/webrtc-apis
-	url = https://github.com/webrtc-uwp/webrtc-apis.git
+	url = https://github.com/StLoch/webrtc-apis.git
 [submodule "webrtc/xplatform/zsLib"]
 	path = webrtc/xplatform/zsLib
 	url = https://github.com/webrtc-uwp/zsLib.git
